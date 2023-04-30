@@ -4,8 +4,10 @@ This is a sample project demonstrating how to create a Focused TextField in Swif
 
 ## Screenshots
 
-![Screenshot 1](/Resources/screenshot1.png)
-![Screenshot 2](/Resources/screenshot2.png)
+<p align="left" width="100%">
+    <img width="150" src="Resources/screenshot1.png"> 
+    <img width="150" src="Resources/screenshot2.png"> 
+</p>
 
 ## Requirements
 
@@ -25,4 +27,4 @@ Simply open the project and run it. Tap on the TextField to see the yellow borde
 
 ## License
 
-[MIT License](LICENSE.md)
+[MIT License](LICENSE)
